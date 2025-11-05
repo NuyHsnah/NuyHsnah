@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hallo, Saya Nunuy Hasanah 👋
+
+![Nunuy Hasanah](img/Nunuy%20Hasanah.png)
 
 <!--
 **NuyHsnah/NuyHsnah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
