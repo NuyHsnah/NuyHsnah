@@ -74,13 +74,10 @@
 
 ### Play Game With Me
 
-<div align="center">
-  <!-- Path SVG sudah diperbaiki agar muncul di GitHub -->
-  <img src="output/snake.svg" alt="Snake animation" width="300" style="transition: transform 0.3s; filter: drop-shadow(0 0 15px #FF007F);" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-</div>
+<img src="https://raw.githubusercontent.com/NuyHsnah/NuyHsnah/output/snake.svg" alt="Snake animation" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="output/pacman-contribution-graph.svg" style="width: 100%; max-width: 600px; margin-top: 15px; border-radius: 10px; box-shadow: 0 0 25px #FF007F, 0 0 50px #9B00FF, 0 0 75px #FF007F;" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NuyHsnah/NuyHsnah/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NuyHsnah/NuyHsnah/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/NuyHsnah/NuyHsnah/output/pacman-contribution-graph.svg">
 </picture>
