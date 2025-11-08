@@ -38,8 +38,7 @@
 
 ### Connect With Me
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
-  ![https://www.instagram.com/nuyhsnah_?igsh=dnI3ZWRuajJ1cXN1](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-  ![https://www.instagram.com/nuyhsnah_?igsh=dnI3ZWRuajJ1cXN1]("https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white")
+  ![https://www.instagram.com/nuyhsnah_?igsh=dnI3ZWRuajJ1cXN1]({https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white})
   <img src="" />
   <img src="" />
   <img src="" />
