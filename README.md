@@ -1,8 +1,8 @@
-## Hallo, Saya Nunuy Hasanah 👋
+## Hello, I'M Nunuy Hasanah 👋
 
 ![Nunuy Hasanah](img/NunuyHasanah.png)
 
-### Skills
+### Knowledge
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -34,4 +34,13 @@
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+### Connect With Me
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
+  ![https://www.instagram.com/nuyhsnah_?igsh=dnI3ZWRuajJ1cXN1](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+  <img src="" />
+  <img src="" />
+  <img src="" />
+  <img src="" />
 </p>
