@@ -57,12 +57,9 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=NuyHsnah&theme=radical&hide_border=false" alt="Streak Stats" />
 </div>
 
+
 ### Play Game With Me
-
-###
-
 <img src="https://raw.githubusercontent.com/NuyHsnah/NuyHsnah/output/snake.svg" alt="Snake animation" />
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NuyHsnah/NuyHsnah/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NuyHsnah/NuyHsnah/output/pacman-contribution-graph.svg">
