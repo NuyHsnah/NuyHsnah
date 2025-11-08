@@ -51,12 +51,15 @@
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=nuyhsnah&show_icons=true&theme=radical&count_private=true&hide=contribs" alt="GitHub Stats" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuyhsnah&layout=compact&theme=radical" alt="Top Languages" />
-  
   <img src="https://nirzak-streak-stats.vercel.app/?user=NuyHsnah&theme=radical&hide_border=false" alt="Streak Stats" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NuyHsnah/NuyHsnah/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NuyHsnah/NuyHsnah/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NuyHsnah/NuyHsnah/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
