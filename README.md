@@ -36,11 +36,16 @@
   <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
-### Connect With Me
+### Social
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
-  ![https://www.instagram.com/nuyhsnah_?igsh=dnI3ZWRuajJ1cXN1]({https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white})
-  <img src="" />
-  <img src="" />
-  <img src="" />
-  <img src="" />
+  <a href="https://www.instagram.com/nuyhsnah_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/NuyHsnah" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
+
