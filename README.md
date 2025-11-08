@@ -49,11 +49,14 @@
 
 ### GitHub Stats
 
-<p align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=nuyhsnah&show_icons=true&theme=radical&count_private=true&hide=contribs" alt="GitHub Stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuyhsnah&layout=compact&theme=radical" alt="Top Languages" />
-  ![](https://nirzak-streak-stats.vercel.app/?user=NuyHsnah&theme=dark&hide_border=false)<br/>
-</p>
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NuyHsnah&theme=radical&hide_border=false" alt="Streak Stats" />
+</div>
+
 
 
 
