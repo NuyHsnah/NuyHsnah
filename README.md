@@ -3,6 +3,7 @@
 ![Nunuy Hasanah](img/NunuyHasanah.png)
 
 ### Knowledge
+
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -38,6 +39,7 @@
 </p>
 
 ### Social
+
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 5px;">
   <a href="https://www.instagram.com/nuyhsnah_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -55,11 +57,14 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=NuyHsnah&theme=radical&hide_border=false" alt="Streak Stats" />
 </div>
 
+### Play Game With Me
+
+###
+
+<img src="https://raw.githubusercontent.com/NuyHsnah/NuyHsnah/output/snake.svg" alt="Snake animation" />
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NuyHsnah/NuyHsnah/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NuyHsnah/NuyHsnah/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NuyHsnah/NuyHsnah/output/pacman-contribution-graph.svg">
 </picture>
-
-
-
